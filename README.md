@@ -25,12 +25,10 @@
 ---
 
 ### 📂 Featured Projects
-- [**Predict Your CropS**](#) – ML pipeline for yield forecasting (Python, XGBoost, LOOCV, HPC migration)  
-- [**Enterprise Solutions at FIS**](#) – Built & optimized financial software (C#, .NET, SQL, NUnit, Selenium)  
-- [**Analytical Dashboards**](#) – Interactive dashboards with Power BI & Tableau for data insights  
+- [**AQI Prediction**](#) – ML pipeline for Forecasting Air Quality Index of a region ( ARIMA , SARIMA )  
 
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/tanvikaurwar/)  
+- [LinkedIn](https://www.linkedin.com/in/tanvi-kaurwar-779b501b0/)  
 - [Email](mailto:tanvimk11@gmail.com)  
