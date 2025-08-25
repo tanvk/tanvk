@@ -25,7 +25,7 @@
 ---
 
 ### 📂 Featured Projects
-- [**AQI Prediction**](#) – ML pipeline for Forecasting Air Quality Index of a region ( ARIMA , SARIMA )  
+- [**AQI Prediction**](https://github.com/tanvk/AQIprediction.git) – ML pipeline for Forecasting Air Quality Index of a region ( ARIMA , SARIMA )  
 
 ---
 
