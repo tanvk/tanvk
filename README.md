@@ -29,7 +29,8 @@ I am actively seeking full-time opportunities in software engineering, data engi
 ### Featured Projects
 - [**AQI Prediction**](https://github.com/tanvk/AQIprediction.git):
   Developed forecasting models using ARIMA and SARIMA on real-world environmental datasets (42,000+ data points). Built a real-time web application with Angular frontend and Django backend, achieving ~80% prediction accuracy and delivering interactive dashboards for air quality monitoring.
-- [**Fast Nueral Style Transfer**]():
+- [**Fast Nueral Style Transfer**](https://github.com/tanvk/Fast-NST):
+  A real-time neural style transfer system for videos and images with both complete and semantic stylization capabilities, optimized for edge devices like the NVIDIA Jetson Nano.
 
 ---
 
@@ -45,7 +46,9 @@ This paper investigates the feasibility of using the ARIMA time-series model to 
 ---
 
 ### Certifications
+- Machine Learning (Stanford Online) [(Coursera)](https://www.coursera.org/learn/machine-learning-course/home/assignments)
 - Neural Networks and Deep Learning [(Coursera)](https://www.coursera.org/account/accomplishments/certificate/7GK8BPN92H6A)
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization [(Coursera)](https://www.coursera.org/account/accomplishments/certificate/M83T624LC7SF)
 - AWS Fundamentals: Going Cloud-Native [(Coursera)](https://www.coursera.org/account/accomplishments/certificate/RGWP2JWNYAMU)
 - AWS Fundamentals: Addressing Security Risk [(Coursera)](https://www.coursera.org/account/accomplishments/certificate/N9CG6X2E47TD)
 
